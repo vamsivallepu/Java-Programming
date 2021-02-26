@@ -1,5 +1,3 @@
-package ui;
-
 import javax.swing.JFrame;
 import javax.swing.JTree;
 import javax.swing.event.TreeSelectionEvent;
